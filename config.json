@@ -1,0 +1,22 @@
+{
+    "tokens": [
+        "MTI1OTI0OTgyNTcwMzI2NDM3Ng.GT5msU.iyBomsxYEGBg3zT57GETtUH1VC-x1mPvIVD8N"c
+    ],
+    "key": "d433b289-6640-499f-acc8",
+    "domains": [
+        "ahuigweugzhue.ru"
+    ],
+    "owners": [
+        "749533462675062875",
+        "1210115887659491409"
+    ],
+    "discordServer": "https://discord.gg/vT6QMM7Xfb",
+    "notifierWebhook": "https://discord.com/api/webhooks/1259252936832192552/iqr3oFDDB6GTklU7vjd0io9ezuwi9-MQWVyrRdR61dtPxY3BD83zOq5z0nWS8KZQCr14",
+    "emailerToken": "MTIzNDAyMjg1NTk0ODExMTk0Mw.GZ7KxX.",
+    "guildid": "1259246676762427603",
+    "roleid": "1259252093546532967",
+    "footer": {
+        "text": "Project Q",
+        "icon_url": "https://cdn.discordapp.com/avatars/1226737358439710841/a18ab5f6c2048c4b71c9e2a62ce291bc.webp?size=80"
+    }
+}
